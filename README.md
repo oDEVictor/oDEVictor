@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oDEVictor
-- 👀 I’m interested in  Programação
-- 🌱 I’m currently learning  HTML / CSS / JavaScript
-- 💞️ I’m looking to collaborate on  Projetos
+- 👀 I’m interested in Systems development
+- 🌱 I’m currently learning  HTML / CSS / JavaScript / TypeScript / NodeJs
+- 💞️ I’m looking to collaborate on Projets
 - 📫 How to reach me ...
 
 <!---
